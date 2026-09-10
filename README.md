@@ -1,2 +1,2 @@
-# alx-airbnb-database
+# 001_airbnb_database
 data base for clone airbnb 
